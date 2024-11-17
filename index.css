@@ -1,0 +1,14 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-image: url('https://cdn.pixabay.com/photo/2019/08/07/11/11/security-4390583_1280.jpg');
+    background-size: cover;
+}
+button:hover {
+    background-color: #6F6F6F;
+    color: #ffffff;
+}
